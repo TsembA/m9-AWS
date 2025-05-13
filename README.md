@@ -186,7 +186,7 @@ AWS offers a wide variety of services and tools for managing cloud infrastructur
 
 ---
 
-Demo project for Module 6 - Deploy to EC2 server from Jenkins Pipeline
+# Demo project for Module 6 - Deploy to EC2 server from Jenkins Pipeline
 
 In this demo I used the droplet from module 5 and installed Jenkins on it. We will deploy the app from java-maven-app to an EC2 server by using docker.
 
